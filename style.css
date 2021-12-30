@@ -1,0 +1,15 @@
+.map {
+    width : 50vw;
+    height: 50vh;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap : 20px;
+    align-items: center;
+}
+
+.display-none {
+    display: none;
+}
